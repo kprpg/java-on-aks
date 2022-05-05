@@ -21,3 +21,5 @@ piggymetrics/
 
 # Scripts
 .scripts/
+
+java-on-aks.git/*
